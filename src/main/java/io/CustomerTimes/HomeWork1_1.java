@@ -10,8 +10,6 @@ public class HomeWork1_1 {
         System.out.println("Four");
         System.out.println("Five");
         System.out.println("Five");
-
-
-
+        System.out.println("Six");
     }
 }
