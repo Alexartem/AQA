@@ -7,15 +7,20 @@ public class HomeWork1_3 {
         Scanner num = new Scanner(System.in);
         float a,b;
         float s;
-        System.out.print("Enter width  ");
+        System.out.println("Enter width > 0 ");
         a = num.nextFloat();
 
-
-        System.out.print("Enter length  ");
-        b = num.nextFloat();
-        s = a*b;
-        System.out.println("Square = "+s);
-
-
+        if (a <= 0) {
+            System.out.println("Incorrect number");
+        } else {
+            System.out.println("Enter height > 0");
+            b = num.nextFloat();
+            if (b <= 0) {
+                System.out.println("Incorrect number");
+            } else {
+                s = a * b;
+                System.out.println("Square = " + s);
+            }
+        }
     }
 }
