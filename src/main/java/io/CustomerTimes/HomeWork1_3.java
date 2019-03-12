@@ -12,7 +12,8 @@ public class HomeWork1_3 {
 
         if (a <= 0) {
             System.out.println("Incorrect number");
-        } else {
+        }
+        else {
             System.out.println("Enter height > 0");
             b = num.nextFloat();
             if (b <= 0) {

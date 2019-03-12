@@ -17,8 +17,8 @@ public class HomeWork3_1 {
 
         int k = 10;
         do {
-            k++;
             System.out.println("do while " + k);
+            k++;
         } while (k <= 20);
     }
 }
