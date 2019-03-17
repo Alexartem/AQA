@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dae83d9-b9fe-4e46-987a-218ed5aa5137" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/FirstTestUtube.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/FirstTestUtube.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork1_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_4_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_4_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/train.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,64 +16,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_4.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="240">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="45" column="2" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_4_1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_5.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="16" selection-start-line="13" selection-end-line="14" />
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -154,6 +92,8 @@
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork4_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_4.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_13.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_5.java" />
       </list>
     </option>
   </component>
@@ -230,7 +170,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552853794039" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552855909040" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -248,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HomeWork3_13">
+  <component name="RunManager" selected="Application.HomeWork5_1">
     <configuration name="FirstTestUtube.firstTest" type="AndroidJUnit" nameIsGenerated="true">
       <module name="AQA" />
       <extension name="coverage">
@@ -278,35 +218,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home" />
-      <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork4_1" />
-      <module name="AQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.CustomerTimes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeWork4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork4_2" />
-      <module name="AQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.CustomerTimes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HomeWork4_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork4_3" />
+      <module name="AQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.CustomerTimes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork5_1" />
       <module name="AQA" />
       <extension name="coverage">
         <pattern>
@@ -331,21 +257,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HomeWork5_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork5_5" />
+      <module name="AQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.CustomerTimes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Android JUnit.FirstTestUtube.firstTest" />
-      <item itemvalue="Application.HomeWork4_1" />
-      <item itemvalue="Application.HomeWork4_2" />
       <item itemvalue="Application.HomeWork4_3" />
       <item itemvalue="Application.HomeWork5_4" />
       <item itemvalue="Application.HomeWork3_13" />
+      <item itemvalue="Application.HomeWork5_1" />
+      <item itemvalue="Application.HomeWork5_5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork5_1" />
+        <item itemvalue="Application.HomeWork5_5" />
         <item itemvalue="Application.HomeWork3_13" />
         <item itemvalue="Application.HomeWork5_4" />
         <item itemvalue="Application.HomeWork4_3" />
-        <item itemvalue="Application.HomeWork4_2" />
-        <item itemvalue="Application.HomeWork4_1" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +368,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31944445" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31944445" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,7 +376,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3298611" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32939634" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3275463" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3275463" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -635,13 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -680,14 +612,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -701,7 +626,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
-          <caret line="45" column="2" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+          <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -714,8 +639,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
         </state>
       </provider>
     </entry>

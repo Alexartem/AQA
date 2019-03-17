@@ -16,6 +16,7 @@ public class HomeWork5_1 {
         for (Integer x : some){
             System.out.println(x);
         }
+        System.out.println(some);
 
 
     }
