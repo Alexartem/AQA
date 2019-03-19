@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dae83d9-b9fe-4e46-987a-218ed5aa5137" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork5_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork5_6.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +34,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+            <state relative-caret-position="361">
+              <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="74" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#155#171#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#199#215#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,6 +131,8 @@
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_5.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_8.java" />
       </list>
     </option>
   </component>
@@ -113,7 +143,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="956" />
@@ -179,7 +209,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553019383276" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553032388831" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -197,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HomeWork5_6">
+  <component name="RunManager" selected="Application.HomeWork5_8">
     <configuration name="FirstTestUtube.firstTest" type="AndroidJUnit" nameIsGenerated="true">
       <module name="AQA" />
       <extension name="coverage">
@@ -214,34 +244,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork3_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork3_13" />
-      <module name="AQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.CustomerTimes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HomeWork5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork5_1" />
-      <module name="AQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.CustomerTimes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeWork5_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork5_4" />
       <module name="AQA" />
       <extension name="coverage">
         <pattern>
@@ -279,21 +283,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HomeWork5_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork5_7" />
+      <module name="AQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.CustomerTimes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork5_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork5_8" />
+      <module name="AQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.CustomerTimes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Android JUnit.FirstTestUtube.firstTest" />
-      <item itemvalue="Application.HomeWork5_4" />
-      <item itemvalue="Application.HomeWork3_13" />
       <item itemvalue="Application.HomeWork5_1" />
       <item itemvalue="Application.HomeWork5_5" />
       <item itemvalue="Application.HomeWork5_6" />
+      <item itemvalue="Application.HomeWork5_7" />
+      <item itemvalue="Application.HomeWork5_8" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork5_8" />
+        <item itemvalue="Application.HomeWork5_7" />
         <item itemvalue="Application.HomeWork5_6" />
         <item itemvalue="Application.HomeWork5_1" />
         <item itemvalue="Application.HomeWork5_5" />
-        <item itemvalue="Application.HomeWork3_13" />
-        <item itemvalue="Application.HomeWork5_4" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +395,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="956" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="954" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23565324" />
@@ -377,7 +407,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31944445" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3201856" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -676,8 +706,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        <state relative-caret-position="361">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="74" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#155#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#199#215#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
