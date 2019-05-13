@@ -11,7 +11,7 @@ public class HomeWork5_6 {
         ArrayList<String> text = new ArrayList<>();
         ArrayList<String> max = new ArrayList<>();
 
-        text.add("Java");
+        text.add("Python1");
         text.add("Python2");
         text.add("JS");
         text.add("Ruby");

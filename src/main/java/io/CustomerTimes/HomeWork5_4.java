@@ -30,7 +30,7 @@ public class HomeWork5_4 {
         System.out.println();
         System.out.println(" even numbers: "+count);
         System.out.println(" zero numbers: "+zero);
-        System.out.print(" zero numbers: "+odd);
+        System.out.print(" odd numbers: "+odd);
 
     }
 }

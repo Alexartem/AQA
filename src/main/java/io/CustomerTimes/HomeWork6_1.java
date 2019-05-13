@@ -2,7 +2,7 @@ package io.CustomerTimes;
 
 import java.util.Scanner;
 
-public class HomeWork3_13 {
+public class HomeWork6_1 {
     public static void main(String[] args) {
         Scanner num = new Scanner(System.in);
         System.out.println("Enter integer number");
@@ -23,6 +23,7 @@ public class HomeWork3_13 {
         }
 
         if (n == 0) {
+            //throw new ZeroExceptionHW6_1("ZeRo");
             z ="Number = 0";
             System.out.println(z);
         }

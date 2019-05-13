@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dae83d9-b9fe-4e46-987a-218ed5aa5137" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/ZeroExceptionHW6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WebdriverSetup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork3_13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork5_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork5_4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork5_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/CustomerTimes/HomeWork5_6.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,66 +22,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AQA$TestXpath__1_.ic" NAME="TestXpath (1) Coverage Results" MODIFIED="1555886399720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="202" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="9" selection-start-line="6" selection-start-column="4" selection-end-line="17" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="74" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="74" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#155#171#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_8.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestXpath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+            <state relative-caret-position="236">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#199#215#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_4.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/WebdriverSetup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="735">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,7 +82,6 @@
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork1_4.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomePage.html" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork1_1.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/FirstTestUtube.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_4.java" />
@@ -126,13 +101,20 @@
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork4_3.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork4_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork4_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_13.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_6.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_7.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_13.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/ZeroExceptionHW6_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork6_1.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/RandomStrings.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WebdriverSetup.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestXpath.java" />
       </list>
     </option>
   </component>
@@ -143,10 +125,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="956" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="455" />
+    <option name="y" value="37" />
+    <option name="width" value="1437" />
+    <option name="height" value="952" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -154,8 +137,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,41 +149,25 @@
             <path>
               <item name="AQA" type="b2602c69:ProjectViewProjectNode" />
               <item name="AQA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AQA" type="b2602c69:ProjectViewProjectNode" />
               <item name="AQA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AQA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AQA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AQA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AQA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="CustomerTimes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AQA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AQA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AQA" type="b2602c69:ProjectViewProjectNode" />
               <item name="AQA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,10 +176,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553032388831" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557693601761" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -227,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HomeWork5_8">
+  <component name="RunManager" selected="JUnit.TestXpath.registration">
     <configuration name="FirstTestUtube.firstTest" type="AndroidJUnit" nameIsGenerated="true">
       <module name="AQA" />
       <extension name="coverage">
@@ -244,86 +211,97 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork5_1" />
+    <configuration name="TestXpath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.CustomerTimes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestXpath" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork5_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork5_5" />
+    <configuration name="TestXpath.checkLogo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.CustomerTimes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestXpath" />
+      <option name="METHOD_NAME" value="checkLogo" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork5_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork5_6" />
+    <configuration name="TestXpath.checkSignIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.CustomerTimes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestXpath" />
+      <option name="METHOD_NAME" value="checkSignIn" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork5_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork5_7" />
+    <configuration name="TestXpath.checkTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.CustomerTimes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestXpath" />
+      <option name="METHOD_NAME" value="checkTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork5_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.CustomerTimes.HomeWork5_8" />
+    <configuration name="TestXpath.registration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.CustomerTimes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestXpath" />
+      <option name="METHOD_NAME" value="registration" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Android JUnit.FirstTestUtube.firstTest" />
-      <item itemvalue="Application.HomeWork5_1" />
-      <item itemvalue="Application.HomeWork5_5" />
-      <item itemvalue="Application.HomeWork5_6" />
-      <item itemvalue="Application.HomeWork5_7" />
-      <item itemvalue="Application.HomeWork5_8" />
+      <item itemvalue="JUnit.TestXpath" />
+      <item itemvalue="JUnit.TestXpath.checkSignIn" />
+      <item itemvalue="JUnit.TestXpath.registration" />
+      <item itemvalue="JUnit.TestXpath.checkTitle" />
+      <item itemvalue="JUnit.TestXpath.checkLogo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomeWork5_8" />
-        <item itemvalue="Application.HomeWork5_7" />
-        <item itemvalue="Application.HomeWork5_6" />
-        <item itemvalue="Application.HomeWork5_1" />
-        <item itemvalue="Application.HomeWork5_5" />
+        <item itemvalue="JUnit.TestXpath.registration" />
+        <item itemvalue="JUnit.TestXpath.checkLogo" />
+        <item itemvalue="JUnit.TestXpath.checkTitle" />
+        <item itemvalue="JUnit.TestXpath" />
+        <item itemvalue="JUnit.TestXpath.checkSignIn" />
       </list>
     </recent_temporary>
   </component>
@@ -363,42 +341,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstTestUtube_firstTest - 2019.02.20 at 17h 49m 24s.xml">
-      <configuration name="FirstTestUtube.firstTest" configurationId="AndroidJUnit" />
+    <history-entry file="TestXpath_registration - 2019.05.11 at 14h 19m 23s.xml">
+      <configuration name="TestXpath.registration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTestUtube_firstTest - 2019.02.20 at 17h 52m 22s.xml">
-      <configuration name="FirstTestUtube.firstTest" configurationId="AndroidJUnit" />
+    <history-entry file="TestXpath_registration - 2019.05.11 at 15h 08m 37s.xml">
+      <configuration name="TestXpath.registration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTestUtube_firstTest - 2019.02.20 at 18h 03m 13s.xml">
-      <configuration name="FirstTestUtube.firstTest" configurationId="AndroidJUnit" />
+    <history-entry file="TestXpath_registration - 2019.05.11 at 16h 19m 54s.xml">
+      <configuration name="TestXpath.registration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTestUtube_firstTest - 2019.02.20 at 19h 22m 42s.xml">
-      <configuration name="FirstTestUtube.firstTest" configurationId="AndroidJUnit" />
+    <history-entry file="TestXpath_registration - 2019.05.11 at 16h 20m 45s.xml">
+      <configuration name="TestXpath.registration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTestUtube_firstTest - 2019.02.20 at 19h 23m 01s.xml">
-      <configuration name="FirstTestUtube.firstTest" configurationId="AndroidJUnit" />
+    <history-entry file="TestXpath_registration - 2019.05.12 at 12h 06m 40s.xml">
+      <configuration name="TestXpath.registration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTestUtube_firstTest - 2019.02.20 at 19h 23m 30s.xml">
-      <configuration name="FirstTestUtube.firstTest" configurationId="AndroidJUnit" />
+    <history-entry file="TestXpath_registration - 2019.05.12 at 12h 13m 28s.xml">
+      <configuration name="TestXpath.registration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTestUtube_firstTest - 2019.02.20 at 19h 24m 19s.xml">
-      <configuration name="FirstTestUtube.firstTest" configurationId="AndroidJUnit" />
+    <history-entry file="TestXpath_registration - 2019.05.12 at 12h 47m 10s.xml">
+      <configuration name="TestXpath.registration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTestUtube_firstTest - 2019.02.20 at 19h 26m 02s.xml">
-      <configuration name="FirstTestUtube.firstTest" configurationId="AndroidJUnit" />
+    <history-entry file="TestXpath_registration - 2019.05.12 at 22h 23m 41s.xml">
+      <configuration name="TestXpath.registration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTestUtube - 2019.02.20 at 19h 26m 34s.xml">
-      <configuration name="FirstTestUtube" configurationId="JUnit" />
+    <history-entry file="TestXpath_registration - 2019.05.12 at 23h 35m 48s.xml">
+      <configuration name="TestXpath.registration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTestUtube_Test1 - 2019.02.20 at 19h 26m 52s.xml">
-      <configuration name="FirstTestUtube.Test1" configurationId="JUnit" />
+    <history-entry file="TestXpath_registration - 2019.05.12 at 23h 36m 41s.xml">
+      <configuration name="TestXpath.registration" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="954" extended-state="6" />
+    <frame x="455" y="37" width="1437" height="952" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23565324" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19283155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -407,15 +385,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3201856" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19069767" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988372" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3298611" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32906976" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32939634" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3275463" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3267442" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -424,6 +402,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3297491" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -478,6 +457,46 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>driver.findElementByXPath(&quot;//*[@id=\&quot;email\&quot;]&quot;).getText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElementByXPath(&quot;//*[@id=\&quot;email\&quot;]&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>emailYPI.getAttribute(&quot;value&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>emailYPI</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>emailYPI.getText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElementById(&quot;id_gender1&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElementByCssSelector(&quot;##id_gender1&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>Math.sqrt(8)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -493,13 +512,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/WicketApplication.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomePage.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/io/CustomerTimes/Start.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/requests/FilterRequest.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -538,13 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -662,13 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -676,59 +674,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" selection-start-line="6" selection-start-column="4" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        <state relative-caret-position="195">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="74" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="74" />
+        <state relative-caret-position="375">
+          <caret line="26" column="74" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#155#171#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+        <state relative-caret-position="465">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#199#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/ZeroExceptionHW6_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork6_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork5_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3711">
+          <caret line="329" column="42" selection-start-line="329" selection-start-column="42" selection-end-line="329" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/CustomerTimes/HomeWork3_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="726" column="54" selection-start-line="726" selection-start-column="54" selection-end-line="726" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WebdriverSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestXpath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
