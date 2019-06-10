@@ -1,3 +1,5 @@
+package DriverUtils;
+
 import org.junit.After;
 import org.junit.Before;
 import org.openqa.selenium.WebElement;
@@ -5,11 +7,16 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.Random;
+import java.util.*;
 
 public class WebdriverSetup {
-    public  ChromeDriver driver;
+    public ChromeDriver driver;
 
     public WebDriverWait wait;
+
+//    public WebElement logo = driver.findElementByCssSelector("#header_logo > a > img");
+
+    public String generatedMail = (mail(12)+"@gmail.com");
 
 
 
