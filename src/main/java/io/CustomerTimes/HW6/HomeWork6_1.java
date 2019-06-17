@@ -3,6 +3,8 @@ package io.CustomerTimes;
 import java.util.Scanner;
 
 public class HomeWork6_1 {
+
+
     public static void main(String[] args) {
         Scanner num = new Scanner(System.in);
         System.out.println("Enter integer number");
@@ -14,7 +16,7 @@ public class HomeWork6_1 {
 
     }
 
-    public static void condition(int n) {
+    public static void condition(int n) throws  {
         String z;
 
         if (n > 0) {

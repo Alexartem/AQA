@@ -1,12 +1,12 @@
 package io.CustomerTimes;
 
-public class Boxer {
+public class BoxerHomeWork4_2 {
     public int age;
     public int weight;
     public int strength;
 
 
-    public Boxer(int age, int weight, int strength) {
+    public BoxerHomeWork4_2(int age, int weight, int strength) {
 
         this.age = age;
         this.weight = weight;
@@ -14,7 +14,7 @@ public class Boxer {
 
     }
 
-    public boolean fight(Boxer anotherBoxer){
+    public boolean fight(BoxerHomeWork4_2 anotherBoxer){
 
         if (((100-this.age)*this.weight*this.strength)>((100-anotherBoxer.age)*anotherBoxer.weight*anotherBoxer.strength)){
             return true;
@@ -26,11 +26,10 @@ public class Boxer {
 
     public static void main(String[] args) {
 
-        Boxer usik = new Boxer(25,90,100);
-        Boxer klitchko = new Boxer(45,100,100);
+        BoxerHomeWork4_2 usik = new BoxerHomeWork4_2(25,90,100);
+        BoxerHomeWork4_2 klitchko = new BoxerHomeWork4_2(45,100,100);
         System.out.println(usik.fight(klitchko));
         System.out.println(klitchko.fight(usik));
-
 
     }
 

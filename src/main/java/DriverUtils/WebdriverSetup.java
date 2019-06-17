@@ -2,6 +2,7 @@ package DriverUtils;
 
 import org.junit.After;
 import org.junit.Before;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -10,9 +11,9 @@ import java.util.Random;
 import java.util.*;
 
 public class WebdriverSetup {
-    public ChromeDriver driver;
+    public WebDriver driver;
 
-    public WebDriverWait wait;
+    public  WebDriverWait wait;
 
 //    public WebElement logo = driver.findElementByCssSelector("#header_logo > a > img");
 
@@ -47,7 +48,7 @@ public class WebdriverSetup {
     }
 
 
-
+ 
 //    @After
 //    public void close() {
 //        driver.quit();
