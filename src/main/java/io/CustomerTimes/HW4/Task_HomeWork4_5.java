@@ -1,15 +1,11 @@
-package io.CustomerTimes;
+package io.CustomerTimes.HW4;
 
 public class Task_HomeWork4_5 {
-
-
-
 
     public static void main(String[] args) {
 
         Task_HomeWork4_5 task_homeWork4_5 = new Task_HomeWork4_5();
         Cat meow = task_homeWork4_5.new Cat("Kitty",10,5);
-
 
     }
 

@@ -1,4 +1,4 @@
-package io.CustomerTimes;
+package io.CustomerTimes.HW4;
 
 public class Dog_HomeWork_4_3 {
 

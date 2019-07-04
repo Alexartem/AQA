@@ -1,8 +1,8 @@
-package io.CustomerTimes;
+package io.CustomerTimes.HW1;
 
 public class HomeWork1_2 {
 
-    public static void main(String args[]){
+    public static void main(String args[]) {
 
         byte Num = 127;
         System.out.println(Num);
@@ -20,7 +20,7 @@ public class HomeWork1_2 {
         System.out.println(Num4);
 
         boolean Num5 = false;
-        System.out.println(Num5) ;
+        System.out.println(Num5);
 
         char Num6 = 'Z';
         System.out.println(Num6);

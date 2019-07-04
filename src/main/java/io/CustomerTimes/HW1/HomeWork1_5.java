@@ -1,4 +1,4 @@
-package io.CustomerTimes;
+package io.CustomerTimes.HW1;
 
 public class HomeWork1_5 {
     public static int a = 1;

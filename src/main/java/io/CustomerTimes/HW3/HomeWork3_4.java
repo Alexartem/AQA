@@ -1,4 +1,4 @@
-package io.CustomerTimes;
+package io.CustomerTimes.HW3;
 
 import java.util.Random;
 

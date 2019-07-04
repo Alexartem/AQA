@@ -1,4 +1,4 @@
-package io.CustomerTimes;
+package io.CustomerTimes.HW4;
 
 public class Printer_4_6 {
 
@@ -204,7 +204,7 @@ public class Printer_4_6 {
         if (tonerLevel >= 90) {
             status = "Printer is full";
         }
-        else if ((90 > tonerLevel) && (tonerLevel >= 30)) {
+        else if ((tonerLevel < 90) && (tonerLevel >= 30)) {
             status = "Ready for printing";
         }
 

@@ -1,4 +1,4 @@
-package io.CustomerTimes;
+package io.CustomerTimes.HW1;
 
 public class HomeWork1_7 {
     public static void main(String[] args) {

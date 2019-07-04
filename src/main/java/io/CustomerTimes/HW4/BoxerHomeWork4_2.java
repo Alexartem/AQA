@@ -1,4 +1,4 @@
-package io.CustomerTimes;
+package io.CustomerTimes.HW4;
 
 public class BoxerHomeWork4_2 {
     public int age;

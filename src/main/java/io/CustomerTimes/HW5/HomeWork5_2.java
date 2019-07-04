@@ -1,4 +1,4 @@
-package io.CustomerTimes;
+package io.CustomerTimes.HW5;
 
 public class HomeWork5_2 {
 

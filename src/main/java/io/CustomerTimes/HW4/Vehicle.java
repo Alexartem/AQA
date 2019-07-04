@@ -1,4 +1,4 @@
-package io.CustomerTimes;
+package io.CustomerTimes.HW4;
 
 public class Vehicle {
     private String name;
@@ -6,7 +6,8 @@ public class Vehicle {
     private int currentVelocity;
     private int currentDirection;
 
-    public Vehicle(){}
+    public Vehicle() {
+    }
 
     public Vehicle(String name, String size) {
         this.name = name;
@@ -17,16 +18,17 @@ public class Vehicle {
 
     public void steer(int direction) {
         this.currentDirection += direction;
-        int newDirection = Vehicle.steer() + " Steering at"  + currentDirection + "degrees.";
+        System.out.println("Steering at" + currentDirection + "degrees.");
     }
 
-    public void move(int velocity, int direction){
+    public void move(int velocity, int direction) {
         currentVelocity = velocity;
         currentDirection = direction;
-        System.out.println(Vehicle.move() +" Moving at " + currentVelocity + " in direction "  + currentDirection);
+        System.out.println("Moving at " + currentVelocity + " in direction " + currentDirection);
 
     }
-    public void stop(){
+
+    public void stop() {
         this.currentVelocity = 0;
 
     }
@@ -45,5 +47,9 @@ public class Vehicle {
 
     public int getCurrentDirection() {
         return currentDirection;
+    }
+
+    public void setCurrentDirection(int currentDirection) {
+        this.currentDirection=currentDirection;
     }
 }
